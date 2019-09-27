@@ -10,3 +10,4 @@ Cliente:
 CPF:
 E-Mail:
 
+Deseja participar de nossas promoções:? () Sim () Não
